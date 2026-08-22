@@ -50,7 +50,7 @@ My goal is to build a strong foundation in DSA and improve problem-solving skill
 
 ## 📊 Progress
 
-🚀 Started: (Add your start date here)
+🚀 Started: (first semester of my University)
 🔥 Current Streak: Improving day by day
 
 ---
@@ -58,8 +58,6 @@ My goal is to build a strong foundation in DSA and improve problem-solving skill
 ## 🛠️ Language Used
 
 * C++
-
----
 
 ## 🌱 Future Plan
 
