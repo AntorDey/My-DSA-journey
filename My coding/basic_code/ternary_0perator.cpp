@@ -2,7 +2,9 @@
 using namespace std;
 
 int main(){
-    int n=-45;
+    int n;
+    cout<<"Enter n: ";
+    cin>>n;
 
     cout<<(n>0? "possitive" :" negetive");
     return 0;
