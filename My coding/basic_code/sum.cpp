@@ -12,10 +12,9 @@ using namespace std;
         if (i==3){
             break;
         }
-            
-        
-        
+
         cout<< "sum ="<< sum<< endl;
+        
         return 0;
         }
     }
