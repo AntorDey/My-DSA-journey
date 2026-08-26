@@ -7,7 +7,7 @@ int main(){
     cout<<"Enter n:";
     cin>>n;
     
-    for(int i=0; i<=n; i+=2){  //And if you code i=0 you can get EVEN num;
+    for(int i=1; i<=n; i++){  //And if you code i=i+2 you can get EVEN num sum;
         sum+=i;
         cout<<i<<" ";
        
