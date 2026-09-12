@@ -72,6 +72,8 @@ My goal is to build a strong foundation in DSA and improve problem-solving skill
 
 Feel free to check out my work and give suggestions!
 
+Email: antordey2005@gmail.com
+
 ---
 
 ⭐ If you like this repo, consider giving it a star!
