@@ -1,4 +1,4 @@
-# 🚀 DSA Journey by Antor Dey
+# 🚀 Antor's DSA Journey
 
 Welcome to my Data Structures and Algorithms (DSA) journey!
 This repository is a collection of my learning progress, problem-solving practice, and coding improvements as I grow step by step in the world of programming.
